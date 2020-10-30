@@ -24,5 +24,6 @@ public  class Calculation {
       demo.addition(a, b);
       demo.Subtraction(a, b);
       demo.multiplication(a, b);
+      demo.multiplication(b,a);
    }
 }
