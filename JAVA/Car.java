@@ -19,7 +19,7 @@ class Bilke {
     public static void main(String[] args){
         Vehicle role = new Vehicle();
         System.out.println(role.brand);
-    
+        1
     }
 
 }
