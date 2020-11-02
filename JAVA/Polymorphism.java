@@ -6,12 +6,14 @@ public class Polymorphism {
         shapes.add(new Triangle());
         for (Shape shape : shapes){
                 drawShape(shape);
-        }
-        
+        }       
+
     }
     private static void drawShape(Shape shape) {
         shape.draw();
     }
+
+
 }
 class Shape {
     public void draw(){
@@ -32,4 +34,5 @@ class Triangle extends Shape{
         System.out.println("Drawer Triangle");
         super.draw();
     }
+
 }
