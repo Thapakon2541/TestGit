@@ -6,7 +6,6 @@ class Vehicle { /// inheritanc การถ่ายทอดคุณสมบ�
 
     }
 }
-
 class Car extends Vehicle{ // Subclass
     private String  modelname = "Mustang";
     public static void main (String[] args){
@@ -15,4 +14,6 @@ class Car extends Vehicle{ // Subclass
             System.out.println(myFastCar.brand+"   "+myFastCar.modelname+"Speed:"+myFastCar.speed);
     }
 
+}
+class Bilke {
 }
