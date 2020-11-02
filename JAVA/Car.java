@@ -1,7 +1,7 @@
 class Vehicle { /// inheritanc การถ่ายทอดคุณสมบัติ // Super
     protected String brand = "ford";
     protected int   speed = 300;
-    public void honk(){
+        public void honk(){
         System.out.println("TUST , TUST");
 
     }
@@ -19,9 +19,7 @@ class Bilke {
     public static void main(String[] args){
         Vehicle role = new Vehicle();
         System.out.println(role.brand);
-
+        1
     }
-
-
 
 }
