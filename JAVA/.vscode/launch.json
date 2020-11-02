@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Bilke",
+            "request": "launch",
+            "mainClass": "Bilke",
+            "projectName": "JAVA_373bfb43"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - My_Calculation",
             "request": "launch",
             "mainClass": "My_Calculation",
