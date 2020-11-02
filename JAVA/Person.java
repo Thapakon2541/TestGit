@@ -5,9 +5,9 @@ public class Person { // Encapsulation
     }
     public void setName(String name) {
         //test
-        this.name = name;
+        this.name = name;:
     }
-    
+
 }
 
 
