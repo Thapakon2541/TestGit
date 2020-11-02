@@ -19,14 +19,7 @@ class Bilke {
     public static void main(String[] args){
         Vehicle role = new Vehicle();
         System.out.println(role.brand);
-<<<<<<< HEAD
-<<<<<<< HEAD
-        
-=======
->>>>>>> parent of 90b8357... Update Car.java
-=======
-        1
->>>>>>> parent of 03ebcdc... Update Car.java
+
     }
 
 
