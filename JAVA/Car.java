@@ -16,4 +16,11 @@ class Car extends Vehicle{ // Subclass
 
 }
 class Bilke {
+    public static void main(String[] args){
+        Vehicle role = new Vehicle();
+        System.out.println(role.brand);
+    }
+
+
+
 }
