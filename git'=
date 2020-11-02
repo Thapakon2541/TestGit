@@ -1,0 +1,84 @@
+[33m7166e42[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: commit: Update Person.java
+[33mf952731[m HEAD@{1}: pull --progress origin: Fast-forward
+[33m8dd4382[m HEAD@{2}: commit: Update Car.java
+[33mf26ec22[m HEAD@{3}: commit: Update Car.java
+[33m2fb3a46[m HEAD@{4}: commit: Update Car.java
+[33m03ebcdc[m[33m ([m[1;33mtag: Car.ja[m[33m)[m HEAD@{5}: commit: Update Car.java
+[33m79813e9[m HEAD@{6}: pull --progress origin: Merge made by the 'recursive' strategy.
+[33me7b7928[m HEAD@{7}: commit: Update Car.java
+[33m90b8357[m HEAD@{8}: commit: Update Car.java
+[33mc391d0a[m HEAD@{9}: commit: Update Polymorphism.java
+[33m0fa1e79[m HEAD@{10}: commit: Update launch.json
+[33m84a37d8[m HEAD@{11}: commit: Update Car.java
+[33ma771fe7[m HEAD@{12}: pull --progress origin: Fast-forward
+[33m91cb1f9[m HEAD@{13}: commit: Update Calculation.java
+[33mc7fde0b[m HEAD@{14}: commit: Update Car.java
+[33m4eb4521[m HEAD@{15}: commit: Update index2.html
+[33mac01099[m HEAD@{16}: pull --progress origin: Merge made by the 'recursive' strategy.
+[33m4225f34[m HEAD@{17}: commit: Create index4.html
+[33me886350[m HEAD@{18}: pull --progress origin: Fast-forward
+[33m6edbf4b[m HEAD@{19}: reset: moving to HEAD
+[33m6edbf4b[m HEAD@{20}: commit (merge): Merge branch 'main' of https://github.com/Thapakon2541/TestGit into main
+[33m4511cdc[m HEAD@{21}: commit: Update index.html
+[33m570d371[m HEAD@{22}: commit: Update index2.html
+[33m0c49fdd[m HEAD@{23}: pull: Fast-forward
+[33m5a99e0e[m HEAD@{24}: commit (merge): Merge branch 'main' of https://github.com/Thapakon2541/TestGit into main
+[33ma17598f[m HEAD@{25}: commit: Update index2.html
+[33m8d00416[m HEAD@{26}: pull: Fast-forward
+[33mf979da7[m HEAD@{27}: commit: Update index2.html
+[33m4253d6f[m HEAD@{28}: reset: moving to HEAD
+[33m4253d6f[m HEAD@{29}: pull --progress origin: Merge made by the 'recursive' strategy.
+[33mb8ab708[m HEAD@{30}: commit: Create d
+[33mcc7c1c5[m HEAD@{31}: commit: Update index.html
+[33m398c890[m HEAD@{32}: reset: moving to HEAD@{1}
+[33m4f9ce08[m HEAD@{33}: commit: Update index.html
+[33m398c890[m HEAD@{34}: commit: Update index.html
+[33m3ed5bd7[m HEAD@{35}: commit: Update index.html
+[33m8fb7f18[m HEAD@{36}: commit: Update index.html
+[33me4765f6[m HEAD@{37}: pull --progress origin: Fast-forward
+[33m9102e26[m HEAD@{38}: reset: moving to HEAD
+[33m9102e26[m HEAD@{39}: commit: Create index1.html
+[33m1b9ac1a[m HEAD@{40}: commit: Create index2.html
+[33me6d4a63[m HEAD@{41}: commit: Create index.html
+[33mb6079d3[m HEAD@{42}: commit (merge): Merge branch 'main' of https://github.com/Thapakon2541/TestGit into main
+[33m7aebc65[m HEAD@{43}: commit: Update index.html
+[33m7513a14[m HEAD@{44}: commit (merge): Merge branch 'main' of https://github.com/Thapakon2541/TestGit into main
+[33me78d82f[m HEAD@{45}: commit: Update index.html
+[33m5c0d3f4[m HEAD@{46}: commit (merge): Merge branch 'main' of https://github.com/Thapakon2541/TestGit into main
+[33m276ca87[m HEAD@{47}: reset: moving to HEAD
+[33m276ca87[m HEAD@{48}: reset: moving to HEAD
+[33m276ca87[m HEAD@{49}: commit: Create index.html
+[33ma1be794[m HEAD@{50}: pull --progress origin: Fast-forward
+[33m69e1f4c[m HEAD@{51}: pull --progress origin: Fast-forward
+[33ma95214b[m HEAD@{52}: commit: Update Calculation.java
+[33m573969a[m HEAD@{53}: commit: Update Calculation.java
+[33m48e765e[m HEAD@{54}: commit: s
+[33mf0fafe5[m HEAD@{55}: commit: Update Calculation.java
+[33mf674d49[m HEAD@{56}: commit: Update Calculation.java
+[33m7b2b3e3[m HEAD@{57}: commit: Update Shape.java
+[33m095fbe6[m HEAD@{58}: commit: Update Person.java
+[33md2a31b2[m HEAD@{59}: pull --progress origin: Merge made by the 'recursive' strategy.
+[33m5235763[m HEAD@{60}: commit: Create Calculation.java
+[33mc1117e6[m HEAD@{61}: commit: Create bash.exe.stackdump
+[33ma0a85ee[m HEAD@{62}: commit: Create Car.java
+[33m8fc6934[m HEAD@{63}: commit: Create Character.java
+[33m6b74d9b[m HEAD@{64}: commit: Create Hello.java
+[33m164e436[m HEAD@{65}: commit: Create IfStatement.java
+[33m65ee711[m HEAD@{66}: commit: Create Myclass.java
+[33m71feec3[m HEAD@{67}: commit: Create Novice.java
+[33m83e3b5d[m HEAD@{68}: commit: Create Person.java
+[33m8f017a4[m HEAD@{69}: commit: Create Person1.java
+[33mf0fbaa4[m HEAD@{70}: commit: Create Polymorphism.java
+[33mf7de3c1[m HEAD@{71}: commit: Create Shape.java
+[33me13cf36[m HEAD@{72}: commit: Create Student.java
+[33m8f0a914[m HEAD@{73}: commit: Create Subclass.java
+[33m276607d[m HEAD@{74}: commit: Create launch.json
+[33mdb90d9c[m HEAD@{75}: commit: Update html.html
+[33m80d0989[m HEAD@{76}: commit: Update html.html
+[33m310fc64[m HEAD@{77}: commit: Update html.html
+[33m131da01[m HEAD@{78}: reset: moving to 131da01c7b1350aa4ca063469410073540cda435
+[33m646c9fa[m HEAD@{79}: commit: Update html.html
+[33m131da01[m HEAD@{80}: commit: Update html.html
+[33m64f9ec9[m HEAD@{81}: commit: Update html.html
+[33m8913692[m HEAD@{82}: commit: Create html.html
+[33m4e4972a[m HEAD@{83}: commit (initial): Initial commit
